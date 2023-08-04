@@ -1,0 +1,21 @@
+{
+  "name": "@nestjs-nodo/aws-s3",
+  "version": "3.33.13",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "*.md"
+  ],
+  "engines": {
+    "node": "v10.16.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "code.nodo.cc:nestjs-nodo/core.git"
+  },
+  "author": "nodo.cc",
+  "license": "ISC",
+  "gitHead": "4b2be2618a6119f3a1520e3c04eb777fbf0852a0"
+}
